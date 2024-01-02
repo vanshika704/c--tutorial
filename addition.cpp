@@ -7,5 +7,5 @@ int main(){ int amount1;int amount2;int sum;
     cin>> amount2;
     sum=amount1+amount2;
     return 0;
-}
+
 
