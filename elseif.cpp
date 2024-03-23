@@ -20,7 +20,7 @@ int main() {
         result = "Paisa hi paisa";
     } else {
         result = "aish kro paise khtm nahi hore abhi!";
-    }
+    
 
     cout << result << endl;
     return 0;
